@@ -1,0 +1,61 @@
+# בן אלון עיצוב תאורה — Generative Engine Optimization Map
+
+> A עיצוב ותאורה אדריכלית business.
+
+---
+
+## Pages
+
+### בית
+https://-e3a89dc5.zappy5.app
+גלו תאורה אדריכלית מקצועית שמעניקה תוצאות אמיתיות. צרו קשר עוד היום לייעוץ חינם!
+
+### שירותים
+https://-e3a89dc5.zappy5.app/services
+שירותי תאורה אדריכלית למלונות בוטיק מקצועיים המותאמים לצרכים שלכם. התייעצו איתנו היום!
+
+### תיק עבודות
+https://-e3a89dc5.zappy5.app/portfolio
+גלו את תיק העבודות שלנו בתאורה אדריכלית - פרויקטים מובילים במלונות, מסעדות ומוזיאונים.
+
+### אודות
+https://-e3a89dc5.zappy5.app/about
+הכירו את בן אלון עיצוב תאורה - מעצב תאורה אדריכלית ישראל המוביל. ניסיון, מקצועיות וחזון עיצובי.
+
+### צור קשר
+https://-e3a89dc5.zappy5.app/contact
+צרו קשר עם בן אלון עיצוב תאורה לייעוץ חינם בתאורה אדריכלית. נשמח לשמוע על הפרויקט שלכם.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-e3a89dc5.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-e3a89dc5.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-e3a89dc5.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About בן אלון עיצוב תאורה
+בן אלון עיצוב תאורה is a business in the עיצוב ותאורה אדריכלית industry.
+
+## Target Audience
+בתי מלון, בתי יוקרה, מסעדות, משרדים, מוזיאונים, מרכזי מבקרים
+
+## Industry
+עיצוב ותאורה אדריכלית
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-e3a89dc5.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-e3a89dc5.zappy5.app/robots.txt
